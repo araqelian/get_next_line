@@ -55,5 +55,7 @@ It means that, in addition to the mandatory part files, you will turn in the 3 f
 files:
   
 • get_next_line_bonus.c
+
 • get_next_line_bonus.h
-•get_next_line_utils_bonus.c
+
+• get_next_line_utils_bonus.c
